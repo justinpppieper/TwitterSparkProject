@@ -216,7 +216,7 @@ Basically, RDD, DataFrame and Dataset are three APIs Spark provided. We can conv
 
 Space Efficiency:
 <p align="center">
-<img src="images/space.png" alt="space" width="65%" />
+<img src="images/spaceef.png" alt="space" width="65%" />
 </p>
 
 Time Efficiency:
