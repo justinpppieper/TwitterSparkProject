@@ -5,10 +5,7 @@
   <h1 align="center">Twitter-Spark-Project</h1>
   <br />
   <p align="center">
-    CSCI596 Final Project <br />
-    Yihang Wang <br />
-    Wei Cheng <br />
-    Ruoxuan Wang <br />
+    This is the final project be done in a group with Yihang.W and Wei.C
 </p>
 
 
